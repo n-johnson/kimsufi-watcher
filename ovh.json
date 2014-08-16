@@ -1,0 +1,30 @@
+{
+    "142sk1": {
+        "name": "KS-1",
+        "proc": "Atome D425 1.8Ghz",
+        "ram": 2048,
+        "hd": 500,
+        "price": 4.99
+    },
+    "142sk2": {
+        "name": "KS-2",
+        "proc": "Intel N 2800 1.86 Ghz",
+        "ram": 4096,
+        "hd": 1000,
+        "price": 9.99
+    },
+    "142sk3": {
+        "name": "KS-3",
+        "proc": "Core i3-2130 - 3.4 Ghz",
+        "ram": 8192,
+        "hd": 1000,
+        "price": 14.99
+    },
+    "142sk4": {
+        "name": "KS-4",
+        "proc": "Core i5-2400 - 2.8Ghz",
+        "ram": 16384,
+        "hd": 1000,
+        "price": 19.99
+    }
+}

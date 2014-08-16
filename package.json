@@ -1,0 +1,13 @@
+{
+  "name": "Kimsufi-Watcher",
+  "description": "Monitors kimsufi and alerts when specified server is in stock",
+  "author": "Nathan Johnson <node@njohnson.me>",
+  "dependencies": {
+    "co": "~3.1.0",
+    "lodash": "~2.4.1",
+    "mandrill-api": "^1.0.40",
+    "request": "~2.40.0",
+    "thunkify": "~2.1.2"
+  },
+  "engine": "node >= 0.11.13"
+}
