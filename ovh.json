@@ -26,5 +26,124 @@
         "ram": 16384,
         "hd": 1000,
         "price": 19.99
+    },
+    "142casys4": {
+        "name": "SYS-IP-1",
+        "proc": "Intel Xeon W3520d",
+        "ram": "16 GB ECC",
+        "hd": "2 x 2TB SATA",
+        "price": 42.00
+    },
+    "143casys4": {
+        "name": "E3-SAT-1",
+        "proc": "Intel Xeon E3 1225v2",
+        "ram": "16 GB",
+        "hd": "2 x 2TB SATA",
+        "price": 42.00
+    },
+    "143casys1": {
+        "name": "E3-SSD-1",
+        "proc": "Intel Xeon E3 1225v2",
+        "ram": "16 GB",
+        "hd": "3 x 120 GB SSD",
+        "price": 42.00
+    },
+    "142casys5": {
+        "name": "SYS-IP-2",
+        "proc": "Intel Xeon W3520d",
+        "ram": "32 GB ECC",
+        "hd": "2 x 2TB SATA",
+        "price": 49.00
+    },
+    "143casys1": {
+        "name": "E3-SAT-2",
+        "proc": "Intel Xeon E3 1225v2",
+        "ram": "32 GB",
+        "hd": "2 x 2TB SATA",
+        "price": 49.00
+    },
+    "143casys1": {
+        "name": "E3-SSD-2",
+        "proc": "Intel Xeon E3 1225v2",
+        "ram": "32 GB",
+        "hd": "3 x 120 GB SSD",
+        "price": 49.00
+    },
+    "143casys2": {
+        "name": "E3-SAT-3",
+        "proc": "Intel Xeon E3 1245v2",
+        "ram": "32 GB",
+        "hd": "2 x 2TB SATA",
+        "price": 56.00
+    },
+    "143casys1": {
+        "name": "E3-SSD-3",
+        "proc": "Intel Xeon E3 1245v2",
+        "ram": "32 GB",
+        "hd": "3 x 120 GB SSD",
+        "price": 56.00
+    },
+    "142casys8": {
+        "name": "SYS-IP-3",
+        "proc": "Intel Xeon W3530d",
+        "ram": "48 GB ECC",
+        "hd": "2 x 2TB SATA",
+        "price": 63.00
+    },
+    "143casys3": {
+        "name": "E3-SAT-4",
+        "proc": "Intel Xeon E3 1245v2",
+        "ram": "32 GB",
+        "hd": "2 x 2TB SATA",
+        "price": 63.00
+    },
+    "143casys1": {
+        "name": "E3-SSD-4",
+        "proc": "Intel Xeon E3 1245v2",
+        "ram": "32 GB",
+        "hd": "3 x 300 GB SSD",
+        "price": 63.00
+    },
+    "141cabk1": {
+        "name": "BK-8T",
+        "proc": "Intel i3 2130d",
+        "ram": "8 GB ",
+        "hd": "2 x 4TB SATA",
+        "price": 69.00
+    },
+    "142casys6": {
+        "name": "SYS-IP-4",
+        "proc": "2 x Intel Xeon E5606",
+        "ram": "96 GB ECC",
+        "hd": "2 x 2TB SATA",
+        "price": 84.00
+    },
+    "142casys1": {
+        "name": "SYS-IP-4S",
+        "proc": "2 x Intel Xeon E5606",
+        "ram": "96 GB ECC",
+        "hd": "2 x 600 GB SAS",
+        "price": 84.00
+    },
+    "141cabk2": {
+        "name": "BK-24T",
+        "proc": "Intel i5 2300d",
+        "ram": "16 GB",
+        "hd": "6 x 4TB SATA",
+        "price": 149.00
+    },
+    "142casys7": {
+        "name": "SYS-IP-5",
+        "proc": "2 x Intel Xeon E5630",
+        "ram": "192 GB ECC",
+        "hd": "2 x 2TB SATA",
+        "price": 168.00
+    },
+    "142casys9": {
+        "name": "SYS-IP-5S",
+        "proc": "2 x Intel Xeon E5630",
+        "ram": "192 GB ECC",
+        "hd": "2 x 600 GB SAS",
+        "price": 168.00
     }
 }
